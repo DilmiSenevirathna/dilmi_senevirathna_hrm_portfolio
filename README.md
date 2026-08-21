@@ -2,11 +2,9 @@
 
 This is my Resume for QA Enginner associate leve.  but as mentioned in this resume I currently following Bussiness administration degree. base on the detail of this resume generate HR , PROJECT MANAGER , BUSSINESS ADDMINISTRATION INTERNSHIP applicable resume
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/36129624-8da3-4dea-b50d-88009184250e).
+## Build
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
